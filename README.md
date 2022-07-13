@@ -1,2 +1,2 @@
 # Tutorials
-A repository to store the learning, codes and exercises from OSSU Tutorials
+A repository to stores the codes learnt from OSSU Curriculum.
